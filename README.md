@@ -1,5 +1,5 @@
 Live Version
-https://isipcasinillo.github.io/Portfolio/
+https://isipcasinillo.github.io/Code-quiz/
 
 Description
 A website using javascript DOM manipulation
